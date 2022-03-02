@@ -5,4 +5,4 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('./toolbar.css');
+@import url('./sideDrawer.css');

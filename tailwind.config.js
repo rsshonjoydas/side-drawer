@@ -10,7 +10,10 @@ module.exports = {
       fontFamily: {
         sans: ["Roboto", ...defaultTheme.fontFamily.sans],
         cursive: "Moon Dance"
-      }
+      },
+      colors: {
+        'black-rgba': 'rgba(0, 0, 0, 0.4)',
+      },
     },
   },
   plugins: [],
